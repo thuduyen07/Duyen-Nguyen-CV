@@ -1,31 +1,31 @@
 Name: Duyen Nguyen
-Job position: Automation Tester
-Address: Viet Nam, Ho Chi Minh city, District 12
-0778788174 thuduyen07@gmail.com linkedin facebook skype
+Job position: Software Automation Tester
+Address: Viet Nam, Ho Chi Minh City, District 12
+0778788174 thuduyen07@gmail.com LinkedIn Facebook skype
 
 Education: Bachelor - Mathematics and Computer Science
 Language: English B1+ (on 27 Sep 2021 at EPAM)
 
-Past porjects:
-SUMARY:
+Past projects:
+SUMMARY:
 - Have knowledge of Web UI testing, API testing, and mobile testing especially Android testing.
 - Have knowledge of using issue tracking and project management, CI/CD, and test report tools.
 - Have knowledge and understanding of SDLC, testing, and quality process.
-- I am dependable in work and appreciate teamwork spirit.
-- Ability to self-learn, be open-minded for new technologies and approaches and adapt well to changing environments.
+- I am dependable at work and appreciate teamwork spirit.
+- Ability to self-learn, be open-minded to new technologies and approaches and adapt well to changing environments.
 
-Project: SBPH-CCFW (Customer Service Process Automation. Automation of various processes by using BPM, ChatBots, Microservices.)
+Project: SBPH-CCFW (Customer Service Process Automation. Automation of various processes by using Business Process Management, ChatBots, Microservices.)
 Roles: Automation Tester
 Customer: [Security Bank Philippines](https://www.securitybank.com/)
 Participation:
-- Read documentation anf requirements
+- Read documentation and requirements
 - Investigate two automation testing frameworks:
     + one for AI conversation testing using Botium
     + one for UI and API testing using JDI Light and Rest Assured
 - Maintain test scripts
 - Create new test scripts
-- Run tests manually
-- Support QA team create test cases
+- Perform tests manually
+- Support the QA team create test cases
 Team: 
 - BA team: 5 members
 - DevOps team: 5 members
@@ -40,7 +40,7 @@ Project: Automation Test RD Program
 Roles: Mentee
 Customer: EPAM Systems
 Participation:
-	- Join meetings such as daily stand-up, retrospective, etc.
+- Join meetings such as daily stand-up, retrospective, etc.
 - Learn lectures with international trainers
 - Perform automation tests
 - Review home tasks with team members
@@ -77,7 +77,7 @@ Mobile Testing
 Test Automation Framework Architecture
 Test Automation Principles
 Android Automated Testing
-Locators (Xpath/Css)
+Locators (Xpath/CSS)
 Selenium for Java
 Test Automation in SDLC
 Web Service / API Test Automation
